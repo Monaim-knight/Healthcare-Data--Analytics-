@@ -1,0 +1,24 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+---
+title: "Healthcare Data Analytics"
+author: "Islam Md Monaim"
+date: "2025-10-03"
+output: pdf_document
+
+# Healthcare Data Analysis
+
+This project analyzes international healthcare facility data using R. It includes:
+- Data cleaning and imputation
+- Country-level KPIs
+- Regression models predicting facility ratings and annual visits
+- Visualizations for presentations
+
+## Files
+- `Healthcare_Data.csv`: Raw input data
+- `country_kpis.csv`: Summary metrics by country
+- `model_rating_coeffs.csv`: Coefficients from rating model
+- `rating_by_country.png`: Visual of average ratings by country.

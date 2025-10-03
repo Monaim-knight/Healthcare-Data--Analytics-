@@ -109,7 +109,8 @@ scripts/04_visualizations.R
 Outputs
 CSVs will be written to outputs/
 Charts will be saved to outputs/plots/
-Key Findings (at a glance)
+## 📊 Key Findings
+
 Cleaning resolved naming inconsistencies (e.g., funding column) and stabilized factor levels.
 Some categorical predictors occasionally had a single observed level in subsets; these were omitted from models to avoid contrast errors.
 Imputation method can influence coefficient magnitudes and model fit:
